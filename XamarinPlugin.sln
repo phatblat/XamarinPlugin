@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1913
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamarinPlugin", "XamarinPlugin\XamarinPlugin.csproj", "{DC107EAA-ACA3-48FC-821E-3E183B5E9ABB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC107EAA-ACA3-48FC-821E-3E183B5E9ABB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC107EAA-ACA3-48FC-821E-3E183B5E9ABB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC107EAA-ACA3-48FC-821E-3E183B5E9ABB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC107EAA-ACA3-48FC-821E-3E183B5E9ABB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E684935-C2C8-4387-81D6-A89B0C1CC4BA}
+	EndGlobalSection
+EndGlobal
